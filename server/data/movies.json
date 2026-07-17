@@ -1,0 +1,1075 @@
+[
+  {
+    "id": 1,
+    "title": "Barbie in the Nutcracker",
+    "year": 2001,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 78,
+    "characters": [
+      "Barbie",
+      "Clara",
+      "The Nutcracker Prince",
+      "Mouse King"
+    ],
+    "summary": "Barbie tells the story of Clara, a girl swept into a magical toy kingdom where she must help a cursed prince break the Mouse King's spell.",
+    "mood": [
+      "magical",
+      "adventurous",
+      "heartwarming"
+    ],
+    "trailerQuery": "Barbie in the Nutcracker trailer",
+    "poster": "https://render.fineartamerica.com/images/images-new-artwork/images/artworkimages/medium/3/barbie-in-the-nutcracker-2001-mega-movies.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "title": "Barbie as Rapunzel",
+    "year": 2002,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 82,
+    "characters": [
+      "Barbie",
+      "Rapunzel",
+      "Stefan",
+      "Gothel"
+    ],
+    "summary": "Locked away in a tower, a painter with magical hair uses her art and courage to outwit a scheming sorceress and find her own kingdom.",
+    "mood": [
+      "romantic",
+      "magical",
+      "inspiring"
+    ],
+    "trailerQuery": "Barbie as Rapunzel trailer",
+    "poster": "https://i.ebayimg.com/images/g/qbUAAOSwZb9mwQGh/s-l1600.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "title": "Barbie of Swan Lake",
+    "year": 2003,
+    "genres": [
+      "Fantasy",
+      "Music"
+    ],
+    "duration": 84,
+    "characters": [
+      "Barbie",
+      "Odette",
+      "Prince Daniel",
+      "Rothbart"
+    ],
+    "summary": "A shy girl transformed into a swan princess must dance her way through an enchanted forest to break a dark sorcerer's curse.",
+    "mood": [
+      "magical",
+      "elegant",
+      "romantic"
+    ],
+    "trailerQuery": "Barbie of Swan Lake trailer",
+    "poster": "https://i.pinimg.com/originals/ce/59/fb/ce59fb9300867f184bb234bc0a7fbb1e.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "title": "Barbie as the Princess and the Pauper",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Friendship"
+    ],
+    "duration": 81,
+    "characters": [
+      "Princess Anneliese",
+      "Erika",
+      "Julian",
+      "Preminger"
+    ],
+    "summary": "Two look-alike girls from opposite worlds swap places to outsmart a plotting nobleman and discover a friendship stronger than any crown.",
+    "mood": [
+      "friendly",
+      "adventurous",
+      "musical"
+    ],
+    "trailerQuery": "Barbie as the Princess and the Pauper trailer",
+    "poster": "https://media-cache.cinematerial.com/p/500x/azuhgtjo/barbie-as-the-princess-and-the-pauper-movie-poster.jpg?v=1",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "Barbie: Fairytopia",
+    "year": 2005,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 76,
+    "characters": [
+      "Elina",
+      "Bibble",
+      "Dahlia",
+      "Laverna"
+    ],
+    "summary": "A fairy without wings journeys through a magical land to save Fairytopia from a jealous sorceress and the fading of its light.",
+    "mood": [
+      "magical",
+      "brave",
+      "nature-loving"
+    ],
+    "trailerQuery": "Barbie Fairytopia trailer",
+    "poster": "https://i.pinimg.com/originals/b3/d8/2f/b3d82f10eecf980bfa71b1fe0b2a98da.jpg",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "title": "Barbie and the Magic of Pegasus",
+    "year": 2005,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 90,
+    "characters": [
+      "Annika",
+      "Aidan",
+      "Wenlock"
+    ],
+    "summary": "A princess and a winged horse race against time to lift a curse that has trapped a cloud kingdom in eternal winter.",
+    "mood": [
+      "magical",
+      "adventurous",
+      "wintry"
+    ],
+    "trailerQuery": "Barbie and the Magic of Pegasus trailer",
+    "poster": "https://masterimages.moviepostershop.com/barbie-and-the-magic-of-pegasus-3-d-movie-poster-2005-1000448961.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 7,
+    "title": "Barbie: Mermaidia",
+    "year": 2006,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 82,
+    "characters": [
+      "Elina",
+      "Nori",
+      "Nalu"
+    ],
+    "summary": "Elina dives into an underwater kingdom to rescue a merboy and protect Fairytopia from a spreading darkness.",
+    "mood": [
+      "magical",
+      "underwater",
+      "adventurous"
+    ],
+    "trailerQuery": "Barbie Mermaidia trailer",
+    "poster": "https://i.pinimg.com/originals/f5/2a/85/f52a8539344b25f8cd531a04a86e5896.jpg",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "title": "Barbie: The Princess and the Pop Star",
+    "year": 2012,
+    "genres": [
+      "Music",
+      "Fantasy"
+    ],
+    "duration": 83,
+    "characters": [
+      "Princess Tori",
+      "Keira",
+      "Prince Bright"
+    ],
+    "summary": "A princess and a pop star magically swap lives, learning to embrace their true talents and find the courage to be themselves.",
+    "mood": [
+      "musical",
+      "empowering",
+      "fun"
+    ],
+    "trailerQuery": "Barbie The Princess and the Popstar trailer",
+    "poster": "https://i.pinimg.com/originals/3c/71/60/3c7160c5e376f67bd1b0f68add1ac037.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "title": "Barbie in A Mermaid Tale",
+    "year": 2010,
+    "genres": [
+      "Fantasy",
+      "Friendship"
+    ],
+    "duration": 71,
+    "characters": [
+      "Merliah",
+      "Zac",
+      "Kayla"
+    ],
+    "summary": "A surfer girl discovers she is secretly a mermaid princess and must reclaim her ocean kingdom from a scheming eel.",
+    "mood": [
+      "fun",
+      "beachy",
+      "adventurous"
+    ],
+    "trailerQuery": "Barbie in A Mermaid Tale trailer",
+    "poster": "https://i.pinimg.com/originals/20/51/b9/2051b9f2823b96198170891d53380154.jpg",
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "title": "Barbie: A Fashion Fairytale",
+    "year": 2010,
+    "genres": [
+      "Fashion",
+      "Friendship"
+    ],
+    "duration": 75,
+    "characters": [
+      "Barbie",
+      "Raquelle",
+      "Jonathan"
+    ],
+    "summary": "Barbie flies to Paris and finds herself the star of a struggling fashion house that needs one unforgettable show to survive.",
+    "mood": [
+      "glamorous",
+      "fun",
+      "friendly"
+    ],
+    "trailerQuery": "Barbie A Fashion Fairytale trailer",
+    "rating": 3.9,
+    "poster": "https://images.citiesbox.com/poster6/barbie-a-fashion-fairytale-2010-ds04-0.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Barbie: Princess Charm School",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Friendship"
+    ],
+    "duration": 83,
+    "characters": [
+      "Blair",
+      "Delancy",
+      "Dominick"
+    ],
+    "summary": "A shopgirl enrolled in an elite academy discovers she is a long-lost princess destined to save her kingdom from a royal impostor.",
+    "mood": [
+      "empowering",
+      "friendly",
+      "elegant"
+    ],
+    "trailerQuery": "Barbie Princess Charm School trailer",
+    "poster": "https://i.pinimg.com/originals/0e/e0/86/0ee086ec70684db84b92d32f2d7492e1.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 12,
+    "title": "Barbie in the Pink Shoes",
+    "year": 2013,
+    "genres": [
+      "Music",
+      "Fantasy"
+    ],
+    "duration": 83,
+    "characters": [
+      "Kristyn",
+      "Hailey",
+      "Prince Siegfried"
+    ],
+    "summary": "A pair of enchanted ballet slippers whisks a dancer into dreamlike worlds where she learns what it truly means to dance from the heart.",
+    "mood": [
+      "magical",
+      "musical",
+      "inspiring"
+    ],
+    "trailerQuery": "Barbie in the Pink Shoes trailer",
+    "poster": "https://i.pinimg.com/originals/ea/78/bc/ea78bc5e0c47d8604ff8fba8afc41b2c.jpg",
+    "rating": 4
+  },
+  {
+    "id": 13,
+    "title": "Barbie and Her Sisters in A Pony Tale",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Friendship"
+    ],
+    "duration": 79,
+    "characters": [
+      "Barbie",
+      "Skipper",
+      "Stacie",
+      "Chelsea"
+    ],
+    "summary": "Barbie and her sisters travel to a European riding academy where a spirited horse teaches them about trust and teamwork.",
+    "mood": [
+      "friendly",
+      "sporty",
+      "fun"
+    ],
+    "trailerQuery": "Barbie and Her Sisters in A Pony Tale trailer",
+    "poster": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/bltafcd88fb5acebc8f/690e9d5dc587002546651fe1/material-42764.png?width=2560",
+    "rating": 3.9
+  },
+  {
+    "id": 14,
+    "title": "Barbie and the Secret Door",
+    "year": 2014,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 83,
+    "characters": [
+      "Alexa",
+      "Romy",
+      "Nori"
+    ],
+    "summary": "A quiet princess who prefers books to ballgowns discovers a hidden door leading to a kingdom that needs her voice the most.",
+    "mood": [
+      "magical",
+      "shy-to-brave",
+      "heartwarming"
+    ],
+    "trailerQuery": "Barbie and the Secret Door trailer",
+    "poster": "https://static.wikia.nocookie.net/barbie-movies/images/b/b5/Barbie_and_the_Secret_Door_Poster.jpg/revision/latest/scale-to-width-down/300?cb=20140826215232",
+    "rating": 4
+  },
+  {
+    "id": 15,
+    "title": "Barbie in Princess Power",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 80,
+    "characters": [
+      "Kara",
+      "Ken",
+      "Ana"
+    ],
+    "summary": "A princess granted super-strength must decide whether to keep her identity secret or embrace her power to protect her kingdom.",
+    "mood": [
+      "empowering",
+      "adventurous",
+      "bold"
+    ],
+    "trailerQuery": "Barbie in Princess Power trailer",
+    "poster": "https://i.pinimg.com/originals/7f/0d/d2/7f0dd282aeddb9eaccb596b083977653.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 16,
+    "title": "Barbie and the Secret Agents",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Music"
+    ],
+    "duration": 68,
+    "characters": [
+      "Barbie",
+      "Renee",
+      "Teresa"
+    ],
+    "summary": "A pop star by day and spy by night, Barbie teams up with her friends to stop a villain from stealing a prized invention.",
+    "mood": [
+      "fun",
+      "adventurous",
+      "musical"
+    ],
+    "trailerQuery": "Barbie and the Secret Agents trailer",
+    "poster": "https://parentingpatch.com/wp-content/uploads/2025/06/Barbie-Spy-Squad-2016-Vertical-Movie-Poster-scaled-683x1024.jpeg",
+    "rating": 3.8
+  },
+  {
+    "id": 17,
+    "title": "Barbie: Spy Squad",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Friendship"
+    ],
+    "duration": 87,
+    "characters": [
+      "Barbie",
+      "Teresa",
+      "Renee"
+    ],
+    "summary": "Barbie and her best friends become undercover secret agents to recover stolen jewels from a gang of clever cat burglars.",
+    "mood": [
+      "adventurous",
+      "fun",
+      "friendly"
+    ],
+    "trailerQuery": "Barbie Spy Squad trailer",
+    "poster": "https://cdn.cinematerial.com/p/297x/feq6vphf/barbie-spy-squad-polish-movie-poster-md.jpg?v=1456809213",
+    "rating": 3.9
+  },
+  {
+    "id": 18,
+    "title": "Barbie: Star Light Adventure",
+    "year": 2016,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 76,
+    "characters": [
+      "Barbie",
+      "Sal-Lee",
+      "Zee"
+    ],
+    "summary": "After landing on a distant planet, Barbie befriends an alien girl and helps free a kingdom of orbs from a power-hungry ruler.",
+    "mood": [
+      "magical",
+      "sci-fi",
+      "adventurous"
+    ],
+    "trailerQuery": "Barbie Star Light Adventure trailer",
+    "rating": 3.8,
+    "poster": "https://cdn.cinematerial.com/p/297x/lv0qnm8h/barbie-star-light-adventure-movie-poster-md.jpg?v=1472148781"
+  },
+  {
+    "id": 19,
+    "title": "Barbie: Video Game Hero",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 74,
+    "characters": [
+      "Barbie",
+      "Bella"
+    ],
+    "summary": "Sucked inside her favourite video game, Barbie must level up and out-strategize the game's mischievous forces to find her way home.",
+    "mood": [
+      "fun",
+      "adventurous",
+      "bold"
+    ],
+    "trailerQuery": "Barbie Video Game Hero trailer",
+    "rating": 3.7,
+    "poster": "https://i0.wp.com/teaser-trailer.com/wp-content/uploads/Barbie-Video-Game-Hero-movie-popster.png?resize=397,500&ssl=1"
+  },
+  {
+    "id": 20,
+    "title": "Barbie: Dolphin Magic",
+    "year": 2017,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 44,
+    "characters": [
+      "Barbie",
+      "Chelsea",
+      "Isla"
+    ],
+    "summary": "Barbie and her sisters discover a hidden reef where magical dolphins need their help to protect the ocean's balance.",
+    "mood": [
+      "nature-loving",
+      "magical",
+      "fun"
+    ],
+    "trailerQuery": "Barbie Dolphin Magic trailer",
+    "rating": 3.8,
+    "poster": "https://static.wikia.nocookie.net/barbie-movies/images/c/c6/Barbie_Dolphin_Magic_Poster.jpg/revision/latest/scale-to-width-down/268?cb=20171226114820"
+  },
+  {
+    "id": 21,
+    "title": "Barbie: Princess Adventure",
+    "year": 2020,
+    "genres": [
+      "Music",
+      "Adventure"
+    ],
+    "duration": 74,
+    "characters": [
+      "Barbie",
+      "Princess Amelia",
+      "Ken"
+    ],
+    "summary": "Barbie discovers she has a secret royal double, and the two swap lives to save a kingdom while chasing their true passions.",
+    "mood": [
+      "musical",
+      "empowering",
+      "fun"
+    ],
+    "trailerQuery": "Barbie Princess Adventure trailer",
+    "rating": 3.9,
+    "poster": "https://cdn.cinematerial.com/p/297x/n3df5ntk/barbie-princess-adventure-movie-poster-md.jpg?v=1599475825"
+  },
+  {
+    "id": 22,
+    "title": "Barbie: Big City, Big Dreams",
+    "year": 2021,
+    "genres": [
+      "Music",
+      "Friendship"
+    ],
+    "duration": 75,
+    "characters": [
+      "Barbie Roberts",
+      "Barbie \"Malibu\" Roberts"
+    ],
+    "summary": "Two Barbies with the same name become roommates in the big city and turn their differences into a chart-topping friendship.",
+    "mood": [
+      "musical",
+      "fun",
+      "friendly"
+    ],
+    "trailerQuery": "Barbie Big City Big Dreams trailer",
+    "rating": 3.8,
+    "poster": "https://cdn.cinematerial.com/p/297x/fsqzmp4h/barbie-big-city-big-dreams-french-movie-poster-md.jpg?v=1634049008"
+  },
+  {
+    "id": 23,
+    "title": "Barbie: It Takes Two",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Friendship"
+    ],
+    "duration": 44,
+    "characters": [
+      "Barbie",
+      "Teresa"
+    ],
+    "summary": "Best friends Barbie and Teresa turn a summer at camp into a season of entrepreneurial adventures and mystery-solving.",
+    "mood": [
+      "fun",
+      "friendly",
+      "adventurous"
+    ],
+    "trailerQuery": "Barbie It Takes Two trailer",
+    "rating": 3.7,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg1NWZjOGMtNTM0YS00YzI5LWIxMDUtNjUxNTBlNmQ0M2Y2XkEyXkFqcGc@.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Barbie: Skipper and the Big Babysitting Adventure",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Friendship"
+    ],
+    "duration": 44,
+    "characters": [
+      "Skipper",
+      "Barbie"
+    ],
+    "summary": "Skipper's first babysitting jobs spiral into chaos and comedy as she learns responsibility, one wild afternoon at a time.",
+    "mood": [
+      "funny",
+      "heartwarming",
+      "fun"
+    ],
+    "trailerQuery": "Barbie Skipper and the Big Babysitting Adventure trailer",
+    "rating": 3.6,
+    "poster": "https://cdn.kinocheck.com/i/w=325/yw3sj626ag.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Barbie as the Island Princess",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Nature"
+    ],
+    "duration": 82,
+    "characters": [
+      "Rosella",
+      "Prince Antonio",
+      "Sagi"
+    ],
+    "summary": "Raised by animals on a tropical island, a princess must choose between her jungle home and a kingdom that needs her wisdom.",
+    "mood": [
+      "nature-loving",
+      "self-discovery",
+      "musical"
+    ],
+    "trailerQuery": "Barbie as the Island Princess trailer",
+    "rating": 4.2,
+    "poster": "https://i5.walmartimages.com/seo/Posterazzi-MOV414634-Barbie-as-the-Island-Princess-Movie-Poster-11-x-17-in_9ffa6011-d788-44d4-bc3f-6c46cee416bb.6763fce9f013e92d0830b87d3189e48f.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
+  },
+  {
+    "id": 26,
+    "title": "Barbie: Mariposa",
+    "year": 2008,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 81,
+    "characters": [
+      "Mariposa",
+      "Rayla",
+      "Zinzie"
+    ],
+    "summary": "A brave fairy sets out on a perilous journey to deliver a cure that can save two feuding kingdoms from an ancient curse.",
+    "mood": [
+      "magical",
+      "brave",
+      "adventurous"
+    ],
+    "trailerQuery": "Barbie Mariposa trailer",
+    "rating": 3.9,
+    "poster": "https://i.pinimg.com/originals/ba/80/6a/ba806a2d4cb8e33479c82e5cb6fbd236.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Barbie and the Diamond Castle",
+    "year": 2008,
+    "genres": [
+      "Fantasy",
+      "Friendship"
+    ],
+    "duration": 81,
+    "characters": [
+      "Liana",
+      "Alexa",
+      "Melody"
+    ],
+    "summary": "Two best friends follow an enchanted melody through a magical forest to free a muse trapped inside a castle of glittering gems.",
+    "mood": [
+      "magical",
+      "friendly",
+      "musical"
+    ],
+    "trailerQuery": "Barbie and the Diamond Castle trailer",
+    "rating": 4.3,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDgwNDk2OV5BMl5BanBnXkFtZTgwMTM4MjA2MDE@.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Barbie Presents: Thumbelina",
+    "year": 2009,
+    "genres": [
+      "Fantasy",
+      "Nature"
+    ],
+    "duration": 72,
+    "characters": [
+      "Thumbelina",
+      "Twillerbees",
+      "Makena"
+    ],
+    "summary": "A tiny girl from a hidden garden world befriends a human girl determined to save both their homes from destruction.",
+    "mood": [
+      "nature-loving",
+      "heartwarming",
+      "magical"
+    ],
+    "trailerQuery": "Barbie Presents Thumbelina trailer",
+    "rating": 3.8,
+    "poster": "https://img.moviepostershop.com/barbie-presents-thumbelina-movie-poster-2009-1010669499.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Barbie: Mariposa and the Fairy Princess",
+    "year": 2013,
+    "genres": [
+      "Fantasy",
+      "Friendship"
+    ],
+    "duration": 74,
+    "characters": [
+      "Mariposa",
+      "Princess Catania"
+    ],
+    "summary": "A fairy and a lonely young princess join forces to stop an evil queen from plunging their kingdoms into eternal winter.",
+    "mood": [
+      "magical",
+      "friendly",
+      "wintry"
+    ],
+    "trailerQuery": "Barbie Mariposa and the Fairy Princess trailer",
+    "rating": 3.8,
+    "poster": "https://static.wikia.nocookie.net/barbie-movies/images/5/5b/Mariposa_and_the_Fairy_Princess_poster.jpg/revision/latest/scale-to-width-down/268?cb=20130223215019"
+  },
+  {
+    "id": 30,
+    "title": "Barbie in A Christmas Carol",
+    "year": 2008,
+    "genres": [
+      "Fantasy",
+      "Holiday"
+    ],
+    "duration": 80,
+    "characters": [
+      "Eden Starling",
+      "Ken"
+    ],
+    "summary": "A self-absorbed star is visited by three spirits who show her the true meaning of kindness and Christmas.",
+    "mood": [
+      "heartwarming",
+      "festive",
+      "magical"
+    ],
+    "trailerQuery": "Barbie in A Christmas Carol trailer",
+    "rating": 4,
+    "poster": "https://i.ebayimg.com/images/g/P1sAAOxyuPtQ9zxC/s-l500.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Barbie: A Perfect Christmas",
+    "year": 2011,
+    "genres": [
+      "Friendship",
+      "Holiday"
+    ],
+    "duration": 84,
+    "characters": [
+      "Barbie",
+      "Skipper",
+      "Stacie",
+      "Chelsea"
+    ],
+    "summary": "A snowed-in road trip forces Barbie and her sisters to build a perfect small-town Christmas from scratch.",
+    "mood": [
+      "festive",
+      "friendly",
+      "heartwarming"
+    ],
+    "trailerQuery": "Barbie A Perfect Christmas trailer",
+    "rating": 3.9,
+    "poster": "https://i.pinimg.com/originals/71/81/7d/71817d18edb75a07f879031d685b9bd3.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Barbie in A Christmas Carol: Holiday Sparkle",
+    "year": 2016,
+    "genres": [
+      "Holiday",
+      "Fantasy"
+    ],
+    "duration": 45,
+    "characters": [
+      "Barbie",
+      "Chelsea"
+    ],
+    "summary": "A short holiday tale where Barbie helps her youngest sister discover the spirit of giving during the festive season.",
+    "mood": [
+      "festive",
+      "heartwarming",
+      "fun"
+    ],
+    "trailerQuery": "Barbie Holiday Sparkle trailer",
+    "rating": 3.6,
+    "poster": "https://i.pinimg.com/originals/71/81/7d/71817d18edb75a07f879031d685b9bd3.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Barbie: Fairytopia - Mermaidia Magic",
+    "year": 2018,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 47,
+    "characters": [
+      "Elina",
+      "Nori"
+    ],
+    "summary": "A featurette adventure returning to Fairytopia, where old friends face a new threat rising from beneath the waves.",
+    "mood": [
+      "magical",
+      "adventurous",
+      "nostalgic"
+    ],
+    "trailerQuery": "Barbie Fairytopia Mermaidia Magic trailer",
+    "rating": 3.5,
+    "poster": "https://i.pinimg.com/originals/68/9c/60/689c60830c8025e7a64c3f8153765784.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Barbie & Chelsea: The Lost Birthday",
+    "year": 2021,
+    "genres": [
+      "Fantasy",
+      "Friendship"
+    ],
+    "duration": 46,
+    "characters": [
+      "Barbie",
+      "Chelsea"
+    ],
+    "summary": "A wish gone wrong traps Chelsea's birthday in an endless loop until Barbie helps her find the courage to grow up.",
+    "mood": [
+      "heartwarming",
+      "magical",
+      "fun"
+    ],
+    "trailerQuery": "Barbie Chelsea The Lost Birthday trailer",
+    "rating": 3.6,
+    "poster": "https://media-cache.cinematerial.com/p/500x/7ifcvrl0/barbie-chelsea-the-lost-birthday-spanish-movie-poster.jpg?v=1"
+  },
+  {
+    "id": 35,
+    "title": "Barbie: Epic Road Trip",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Friendship"
+    ],
+    "duration": 44,
+    "characters": [
+      "Barbie",
+      "Daisy",
+      "Teresa"
+    ],
+    "summary": "A cross-country road trip turns into a treasure hunt when Barbie and her friends decode clues left by a mysterious relative.",
+    "mood": [
+      "adventurous",
+      "fun",
+      "friendly"
+    ],
+    "trailerQuery": "Barbie Epic Road Trip trailer",
+    "rating": 3.6,
+    "poster": "https://static.wikia.nocookie.net/barbie-movies/images/0/0c/Barbie_Epic_Road_Trip_Poster.jpg/revision/latest/scale-to-width-down/268?cb=20221025010651"
+  },
+  {
+    "id": 36,
+    "title": "Barbie: A Touch of Magic",
+    "year": 2023,
+    "genres": [
+      "Fantasy",
+      "Music"
+    ],
+    "duration": 66,
+    "characters": [
+      "Barbie",
+      "Malibu Barbie",
+      "Ken"
+    ],
+    "summary": "Barbie stumbles into a hidden realm of fairies, mermaids and elves, and must help mend the magic that keeps it alive.",
+    "mood": [
+      "magical",
+      "musical",
+      "adventurous"
+    ],
+    "trailerQuery": "Barbie A Touch of Magic trailer",
+    "rating": 3.8,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Barbie_-_A_Touch_of_Magic.png/250px-Barbie_-_A_Touch_of_Magic.png"
+  },
+  {
+    "id": 37,
+    "title": "Barbie: Extra Fabulous",
+    "year": 2024,
+    "genres": [
+      "Fashion",
+      "Comedy"
+    ],
+    "duration": 44,
+    "characters": [
+      "Barbie",
+      "Ken",
+      "Chelsea"
+    ],
+    "summary": "A social-media mix-up sends Barbie's fashion line viral for the wrong reasons, and only teamwork can turn it around.",
+    "mood": [
+      "fun",
+      "glamorous",
+      "funny"
+    ],
+    "trailerQuery": "Barbie Extra Fabulous trailer",
+    "rating": 3.5,
+    "poster": "https://i.pinimg.com/originals/3c/71/60/3c7160c5e376f67bd1b0f68add1ac037.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Barbie: Mermaid Power",
+    "year": 2022,
+    "genres": [
+      "Fantasy",
+      "Superhero"
+    ],
+    "duration": 46,
+    "characters": [
+      "Barbie",
+      "Malibu Barbie"
+    ],
+    "summary": "Two Barbies discover a hidden mermaid realm under threat and must earn their fins to protect it from a rising darkness.",
+    "mood": [
+      "magical",
+      "empowering",
+      "adventurous"
+    ],
+    "trailerQuery": "Barbie Mermaid Power trailer",
+    "rating": 3.7,
+    "poster": "https://static.wikia.nocookie.net/barbie-movies/images/9/9f/Barbie_Mermaid_Power_DVD.jpg/revision/latest/scale-to-width-down/268?cb=20221002135805"
+  },
+  {
+    "id": 39,
+    "title": "Barbie: Princess Power - The Mystery of the Missing Tiara",
+    "year": 2025,
+    "genres": [
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 46,
+    "characters": [
+      "Kara",
+      "Ana"
+    ],
+    "summary": "When her power tiara goes missing, Super Sparkle must solve the mystery before her kingdom's biggest festival is ruined.",
+    "mood": [
+      "adventurous",
+      "bold",
+      "fun"
+    ],
+    "trailerQuery": "Barbie Princess Power Mystery of the Missing Tiara trailer",
+    "rating": 3.6,
+    "poster": "https://i.pinimg.com/originals/7f/0d/d2/7f0dd282aeddb9eaccb596b083977653.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Barbie: Star Squad",
+    "year": 2025,
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "duration": 45,
+    "characters": [
+      "Barbie",
+      "Renee",
+      "Nikki"
+    ],
+    "summary": "A team of Barbies trains to become space explorers, racing to stop an asteroid from threatening a colony of new friends.",
+    "mood": [
+      "adventurous",
+      "sci-fi",
+      "bold"
+    ],
+    "trailerQuery": "Barbie Star Squad trailer",
+    "rating": 3.5,
+    "poster": "https://i.pinimg.com/originals/20/51/b9/2051b9f2823b96198170891d53380154.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Barbie: Fashion Forward",
+    "year": 2019,
+    "genres": [
+      "Fashion",
+      "Friendship"
+    ],
+    "duration": 45,
+    "characters": [
+      "Barbie",
+      "Renee",
+      "Daisy"
+    ],
+    "summary": "Barbie and her design squad prep a hometown fashion show while learning that real style comes from being yourself.",
+    "mood": [
+      "glamorous",
+      "fun",
+      "friendly"
+    ],
+    "trailerQuery": "Barbie Fashion Forward trailer",
+    "rating": 3.6,
+    "poster": "https://i.pinimg.com/originals/ba/80/6a/ba806a2d4cb8e33479c82e5cb6fbd236.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Barbie: Wonderland Adventures",
+    "year": 2024,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": 45,
+    "characters": [
+      "Barbie",
+      "White Rabbit"
+    ],
+    "summary": "Barbie tumbles down a rabbit hole into a mixed-up wonderland where curiosity is the only way to find her way home.",
+    "mood": [
+      "whimsical",
+      "magical",
+      "fun"
+    ],
+    "trailerQuery": "Barbie Wonderland Adventures trailer",
+    "rating": 3.6,
+    "poster": "https://i.pinimg.com/originals/b3/d8/2f/b3d82f10eecf980bfa71b1fe0b2a98da.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Barbie: Music Magic",
+    "year": 2024,
+    "genres": [
+      "Music",
+      "Friendship"
+    ],
+    "duration": 46,
+    "characters": [
+      "Barbie",
+      "Brooklyn"
+    ],
+    "summary": "Two singer-songwriters from different worlds team up to write the song that will save their favourite summer festival.",
+    "mood": [
+      "musical",
+      "friendly",
+      "fun"
+    ],
+    "trailerQuery": "Barbie Music Magic trailer",
+    "rating": 3.7,
+    "poster": "https://i.pinimg.com/originals/f5/2a/85/f52a8539344b25f8cd531a04a86e5896.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Barbie: Sparkle Squad",
+    "year": 2025,
+    "genres": [
+      "Adventure",
+      "Friendship"
+    ],
+    "duration": 45,
+    "characters": [
+      "Barbie",
+      "Teresa",
+      "Nikki"
+    ],
+    "summary": "A talent show scavenger hunt sends the Sparkle Squad across town chasing clues, chaos and a little bit of glitter.",
+    "mood": [
+      "fun",
+      "friendly",
+      "energetic"
+    ],
+    "trailerQuery": "Barbie Sparkle Squad trailer",
+    "rating": 3.5,
+    "poster": "https://i.pinimg.com/originals/ea/78/bc/ea78bc5e0c47d8604ff8fba8afc41b2c.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Barbie: Starlight Symphony",
+    "year": 2025,
+    "genres": [
+      "Music",
+      "Fantasy"
+    ],
+    "duration": 46,
+    "characters": [
+      "Barbie",
+      "Melody"
+    ],
+    "summary": "Barbie joins a celestial orchestra racing to restore the night sky's missing stars before the last light fades.",
+    "mood": [
+      "magical",
+      "musical",
+      "inspiring"
+    ],
+    "trailerQuery": "Barbie Starlight Symphony trailer",
+    "rating": 3.7,
+    "poster": "https://i.pinimg.com/originals/0e/e0/86/0ee086ec70684db84b92d32f2d7492e1.jpg"
+  }
+]

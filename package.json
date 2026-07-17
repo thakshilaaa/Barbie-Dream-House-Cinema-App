@@ -1,0 +1,10 @@
+{
+  "name": "cinema-app-fullstack",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node start.js",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev -- --host 0.0.0.0"
+  }
+}

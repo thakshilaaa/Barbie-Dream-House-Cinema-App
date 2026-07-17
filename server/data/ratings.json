@@ -1,0 +1,51 @@
+[
+  {
+    "userId": "guest_9cl8kk7b",
+    "movieId": 4,
+    "rating": 1,
+    "favorite": true,
+    "updatedAt": "2026-07-17T14:18:23.062Z"
+  },
+  {
+    "userId": "guest_o4vfhi4c",
+    "movieId": 1,
+    "rating": null,
+    "favorite": true,
+    "updatedAt": "2026-07-17T14:20:20.671Z"
+  },
+  {
+    "userId": "guest_o4vfhi4c",
+    "movieId": 27,
+    "rating": 5,
+    "favorite": true,
+    "updatedAt": "2026-07-17T14:22:09.613Z"
+  },
+  {
+    "userId": "guest_o4vfhi4c",
+    "movieId": 17,
+    "rating": null,
+    "favorite": true,
+    "updatedAt": "2026-07-17T14:22:19.789Z"
+  },
+  {
+    "userId": "guest_o4vfhi4c",
+    "movieId": 23,
+    "rating": null,
+    "favorite": true,
+    "updatedAt": "2026-07-17T14:22:21.410Z"
+  },
+  {
+    "userId": "guest_o4vfhi4c",
+    "movieId": 3,
+    "rating": null,
+    "favorite": true,
+    "updatedAt": "2026-07-17T14:22:23.306Z"
+  },
+  {
+    "userId": "guest_o4vfhi4c",
+    "movieId": 45,
+    "rating": null,
+    "favorite": true,
+    "updatedAt": "2026-07-17T14:22:24.735Z"
+  }
+]
